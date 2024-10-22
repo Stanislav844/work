@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: #367a36;
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.round{
+    border:3px solid #008000;
+    border-radius: 150px;
+    box-shadow: 0 0 15px #fffdfd;
+    margin-top: 5px;
+}
+
+.title1{
+    margin-top: 10px;
+    font-family: "Arial Black", Times, serif;
+    font-size: 50px;
+    color:#FfF;
+}
+
+.title2{
+    margin-top: 10px;
+    font-family: "Times New Romen", Times, serif;
+    font-size: 30px;
+    color:rgb(167, 235, 212);
+}
+
+.menu{
+    margin-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+    color: rgb(233, 240, 238);
+    color: black;
+}
+
+.menu-color{
+    color: black;
+    display: flex;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 62px;
+    color: springgreen;
+}
+h2 {
+    text-transform: uppercase;
+    font-style: italic;
+}
+img {
+    width: 450px;
+    height: 350px;
+}
+ol{
+    font-size: 20px;
+    list-style-type: disc;
+    color: blue;
+}
+div{
+    max-width: 750px;
+    margin-left: 20px;
+}
+h1 {
+    font-size: 62px;
+    color: springgreen;
+}
+h2 {
+    text-transform: uppercase;
+    font-style: italic;
+}
+P {
+    font-size: 20px;
+    color:blue;
+}
+img {
+    width: 425px;
+}
+
+.footer{
+    display: flex;
+    height: 200px;
+    background-color: #008000;
+}
+.str{
+    font-size: 18px;
+    color:black;
+}
+.glav{
+    font-size: 25px;
+    color:#08ff08
+}
+
+.card{
+    width: 250px;
+    background-color:#26ff00; 
+    margin-bottom: -700px;
+    padding: 25px 25px 30px 25px;
+    display: inline-block;
+    box-shadow: 7px 7px 0 black;
+    margin-top: -800px;
+    margin-left: 800px;
+}
+
+.card-title{
+    color: black;
+    
+}
+.div{
+    margin-right: 10px;
+    margin-top: 40px;
+}
+.style{
+    background-color: rgb(18, 54, 36);
+}
+.ol{
+    color:#08ff08
+}

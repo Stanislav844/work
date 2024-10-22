@@ -1,0 +1,148 @@
+
+body, h1{
+    margin: 0;
+}
+
+body{
+    min-width: 1000px;
+}
+
+header{
+    display:flex;
+    margin-left: 100px;
+}
+
+.style{
+    background-color: bisque;
+}
+
+.menu{
+    margin-left: 1000px;
+    font-size: "Times New Roman", Times, serif;
+    font-size: 25px;
+    color: rgb(2, 11, 8);
+}
+
+.card-cnopka{
+    font-size: 25px;
+    margin-left: 1100px;
+    width: 250px;
+    background-color: rgb(255, 204, 142);
+    box-shadow: 7px 7px 0 black;
+    display: inline-block;
+    padding: 25px 25px 30px 25px;
+    margin-bottom: -60px;
+}
+.h1{
+    text-transform: uppercase;
+    font-size: 100px;
+    color:rgb(90, 55, 2);
+    -webkit-text-stroke: 1px #000000;
+    margin-top: -170px;
+    margin-left: 20px;
+}
+
+.zagol{
+    font-size: 44px;
+    margin-top: -2px;
+    color:  black;
+    margin-left: 20px;
+}
+
+.zagol-2{
+    font-size: 44px;
+    margin-left: 240px;
+    margin-top: -97px;
+    color: rgb(224, 106, 2);
+}
+
+.Rac{
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+.stroch{
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+.img{
+    width: 400px;
+    margin-left: 600px;
+    margin-top: -800px;
+    margin-bottom: 150px;
+   
+}
+
+.man{
+    width: 50px;
+    margin-left: 60px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+ .wamen{
+    margin-left: 250px;
+    margin-bottom: 85px;
+    margin-top: -400px;
+ }
+
+.ves{
+    font-size: 25px;
+    margin-top: -30px;
+    margin-left: 30px;
+}
+
+.ves-2{
+    font-size: 25px;
+    margin-left: 230px;
+    margin-top: -70px;
+}
+
+.img-1{
+    width: 500px;
+    margin-left: 700px;
+    margin-top: -700px;
+    margin-bottom: -20px;
+}
+
+.img-2{
+    width: 700px;
+    margin-left: 500px;
+    margin-bottom: -500px;
+}
+.footer{
+    display: flex;
+    height: 200px;
+}
+
+.div-1{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.glav{
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+.footer-str{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.div-2{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
